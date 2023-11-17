@@ -1,0 +1,9 @@
+"use strict";
+var __makeTemplateObject = (this && this.__makeTemplateObject) || function (cooked, raw) {
+    if (Object.defineProperty) { Object.defineProperty(cooked, "raw", { value: raw }); } else { cooked.raw = raw; }
+    return cooked;
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var Defeat = String.raw(templateObject_1 || (templateObject_1 = __makeTemplateObject(["\n                             88               ad88                               \n                             88              d8\"                          ,d     \n                             88              88                           88     \n                     ,adPPYb,88  ,adPPYba, MM88MMM ,adPPYba, ,adPPYYba, MM88MMM  \n                    a8\"    'Y88 a8P_____88   88   a8P_____88 \"\"     'Y8   88     \n                    8b       88 8PP\"\"\"\"\"\"\"   88   8PP\"\"\"\"\"\"\" ,adPPPPP88   88     \n                    \"8a,   ,d88 \"8b,   ,aa   88   \"8b,   ,aa 88,    ,88   88,    \n                     '\"8bbdP\"Y8  '\"Ybbd8\"'   88    '\"Ybbd8\"' '\"8bbdP\"Y8   \"Y888 \n"], ["\n                             88               ad88                               \n                             88              d8\"                          ,d     \n                             88              88                           88     \n                     ,adPPYb,88  ,adPPYba, MM88MMM ,adPPYba, ,adPPYYba, MM88MMM  \n                    a8\"    'Y88 a8P_____88   88   a8P_____88 \"\"     'Y8   88     \n                    8b       88 8PP\"\"\"\"\"\"\"   88   8PP\"\"\"\"\"\"\" ,adPPPPP88   88     \n                    \"8a,   ,d88 \"8b,   ,aa   88   \"8b,   ,aa 88,    ,88   88,    \n                     '\"8bbdP\"Y8  '\"Ybbd8\"'   88    '\"Ybbd8\"' '\"8bbdP\"Y8   \"Y888 \n"])));
+exports.default = Defeat;
+var templateObject_1;
